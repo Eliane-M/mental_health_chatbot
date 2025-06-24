@@ -9,8 +9,6 @@ A compassionate, AI-powered chatbot trained to provide supportive responses to m
 
 ## About the Project
 
-## 🌟 About the Project
-
 The **Mental Health Support Chatbot** is a domain-specific conversational AI designed to offer compassionate, non-judgmental responses to users experiencing emotional distress, loneliness, or anxiety. Built within the **mental health domain**, it aims to simulate the empathetic tone of a human support listener.
 Mental health issues often go undiscussed due to stigma, lack of access to professionals, or fear of being misunderstood. This chatbot was developed to provide a **safe, anonymous first step** toward emotional support — whether for individuals who are struggling, curious, or in need of someone to talk to.
 
