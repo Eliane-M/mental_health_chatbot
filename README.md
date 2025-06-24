@@ -9,6 +9,13 @@ A compassionate, AI-powered chatbot trained to provide supportive responses to m
 
 ## About the Project
 
+## 🌟 About the Project
+
+The **Mental Health Support Chatbot** is a domain-specific conversational AI designed to offer compassionate, non-judgmental responses to users experiencing emotional distress, loneliness, or anxiety. Built within the **mental health domain**, it aims to simulate the empathetic tone of a human support listener.
+Mental health issues often go undiscussed due to stigma, lack of access to professionals, or fear of being misunderstood. This chatbot was developed to provide a **safe, anonymous first step** toward emotional support — whether for individuals who are struggling, curious, or in need of someone to talk to.
+
+By tailoring the model's training to **mental health-specific conversations**, this project highlights how AI can serve as a supportive tool in well-being and mental health education.
+
 This chatbot was trained on a curated [dataset of mental health-related questions and answers](https://huggingface.co/datasets/Ashokajou51/ESConv_Original) from Hugging Face. Using the T5 Transformer architecture, it generates empathetic, context-aware responses to user inputs like:
 
 > **"I feel so alone lately"**  
