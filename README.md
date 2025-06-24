@@ -2,15 +2,14 @@
 
 A compassionate, AI-powered chatbot trained to provide supportive responses to mental health-related messages.
 
-![Gradio UI](https://img.shields.io/badge/UI-Gradio-blue?style=flat&logo=gradio)
-![Model](https://img.shields.io/badge/Model-T5--small-green?style=flat&logo=huggingface)
-![License](https://img.shields.io/github/license/Eliane-M/mental_health_chatbot)
+![Gradio UI](https://74b9d45eac235934a8.gradio.live/)
+![Model](https://huggingface.co/Eliane-M/mental_health_chatbot)
 
 ---
 
 ## About the Project
 
-This chatbot was trained on a curated [dataset of mental health-related questions and answers](https://huggingface.co/datasets/Ashokajou51/ESConv_Original) from hugging face. Using the T5 Transformer architecture, it generates empathetic, context-aware responses to user inputs like:
+This chatbot was trained on a curated [dataset of mental health-related questions and answers](https://huggingface.co/datasets/Ashokajou51/ESConv_Original) from Hugging Face. Using the T5 Transformer architecture, it generates empathetic, context-aware responses to user inputs like:
 
 > **"I feel so alone lately"**  
 > → _"I am so sorry to hear that. I'm sorry that you're feeling so alone lately."_
