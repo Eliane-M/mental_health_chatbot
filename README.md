@@ -2,8 +2,8 @@
 
 A compassionate, AI-powered chatbot trained to provide supportive responses to mental health-related messages.
 
-![Gradio UI]([https://img.shields.io/badge/UI-Gradio-blue?style=flat&logo=gradio](https://74b9d45eac235934a8.gradio.live/))
-![Model]([https://img.shields.io/badge/Model-T5--small-green?style=flat&logo=huggingface](https://huggingface.co/Eliane-M/mental_health_chatbot))
+![Gradio UI](https://img.shields.io/badge/UI-Gradio-blue?style=flat&logo=gradio)
+![Model](https://img.shields.io/badge/Model-T5--small-green?style=flat&logo=huggingface)
 
 ---
 
