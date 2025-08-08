@@ -1,4 +1,4 @@
-# 🧠 Mental Health Support Chatbot
+# Mental Health Support Chatbot
 
 A compassionate, AI-powered chatbot trained to provide supportive responses to mental health-related messages.
 
@@ -21,7 +21,7 @@ This chatbot was trained on a curated [dataset of mental health-related question
 
 ---
 
-## 💡 Key Features
+## Key Features
 
 - Built using the `t5-small` model from Hugging Face Transformers
 - Fine-tuned for mental health support conversations using the [ESConv_original](https://huggingface.co/datasets/Ashokajou51/ESConv_Original) dataset
@@ -29,7 +29,7 @@ This chatbot was trained on a curated [dataset of mental health-related question
 - Evaluation using BLEU score (with smoothing)
 ---
 
-## 🖥️ Demo
+##  Demo
 
 To launch the chatbot locally in Colab or Python:
 
